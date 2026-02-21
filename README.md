@@ -1,9 +1,10 @@
+(1):
 Name: Tharanika.S
 Register Number:712525205079
 class:B.Tech-IT(B)
 Subject: python For Data Science And Visualization
 
-(1):
+(2):
 # Function to check if a number is even or odd
 def check_even_odd(number):
     if (number % 2) == 0:
@@ -25,7 +26,7 @@ if __name__ == "__main__":
     except ValueError:
         print("Invalid input. Please enter a valid integer.")
 
-  (2):
+  (3):
   # Python program to find the largest of three numbers
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
@@ -42,7 +43,7 @@ else:
 print("The largest number is:", largest)
 
 
-(3):
+(4):
 # Program to calculate the factorial of a number using a loop
 
 # Take a number as input from the user
